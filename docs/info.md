@@ -8,7 +8,7 @@ You can also include images in this folder and reference them in the markdown. E
 -->
 
 ## How it works
-Explain how an array multiplier
+Explain how an array multiplier works
 
 ## How to test
 How do you know that your hardware is working when you get it
