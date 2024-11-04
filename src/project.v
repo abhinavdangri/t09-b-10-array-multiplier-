@@ -27,7 +27,7 @@ wire [7:0] p;
 
 	wire [3:0] carry_adders_1;
 	wire [3:0] carry_adders_2;
-	wire [3:0] carry_adders_3;
+	wire [2:0] carry_adders_3;
 
 	wire [2:0] sum_adders_1;
 	wire [2:0] sum_adders_2;
