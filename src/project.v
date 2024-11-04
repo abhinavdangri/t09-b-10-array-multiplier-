@@ -20,7 +20,7 @@ wire [3:0] m = ui_in[3:0];
 wire [3:0] q = ui_in[7:4];
 wire [7:0] p;
 
-	wire m0q0, m1q0, m2q0, m3q0;
+	wire m1q0, m2q0, m3q0;
 	wire m0q1, m1q1, m2q1, m3q1;
 	wire m0q2, m1q2, m2q2, m3q2;
 	wire m0q3, m1q3, m2q3, m3q3;
